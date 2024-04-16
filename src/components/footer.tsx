@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="flex flex-col-reverse md:flex-row-reverse items-center justify-between w-full">
         <div className="flex flex-row items-center justify-between space-x-4">
           <Button size={"sm"} variant={"link"} asChild>
-            <Link href={"https://drive.google.com/file/d/1J2CSFAyuWn9DOoWty3i5lVUy_VNSrpRc/view?usp=drive_link"} target="_blank">
+            <Link href={"https://drive.google.com/file/d/18bapq2jm52aKl7_jXxKZKiKIL129oVQ0/view?usp=drive_link"} target="_blank">
               Resume
             </Link>
           </Button>
